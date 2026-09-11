@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "tablist",
+  "version": "${version}",
+  "name": "TabList",
+  "description": "Mod to customize the player tab list",
+  "authors": [
+    "logitechno"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.logitechno.TabList"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "spark": "*"
+  }
+}

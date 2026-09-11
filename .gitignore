@@ -1,0 +1,22 @@
+# Gradle
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+out/
+
+# Minecraft
+run/
+
+# Original NeoForge jar (reference only)
+tablist-1.0.2.jar
+
+# OS
+.DS_Store
+Thumbs.db
