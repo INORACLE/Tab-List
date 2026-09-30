@@ -1,6 +1,6 @@
 # TabList (Fabric)
 
-A Minecraft mod to customize the player tab list. Originally a NeoForge mod, ported to **Fabric 1.21.11**.
+A Minecraft mod to customize the player tab list. Originally a NeoForge mod, ported to **Fabric 1.21.1**.
 
 ## Features
 
@@ -20,9 +20,9 @@ A Minecraft mod to customize the player tab list. Originally a NeoForge mod, por
 
 ## Requirements
 
-- Minecraft **1.21.11**
+- Minecraft **1.21.1**
 - [Fabric Loader](https://fabricmc.net/) >= 0.16.0
-- [Fabric API](https://modrinth.com/mod/fabric-api) (any version for 1.21.11)
+- [Fabric API](https://modrinth.com/mod/fabric-api) (any version for 1.21.1)
 - Java 21+
 - *(Optional)* Spark for TPS/MSPT placeholders
 
